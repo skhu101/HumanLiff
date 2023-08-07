@@ -15,9 +15,6 @@
 <div>
     <sup>1</sup>S-Lab, Nanyang Technological University&emsp; <sup>2</sup>Sensetime Research
 </div>
-<div>
-    <sup>✉</sup>Corresponding Author
-</div>
 
 <strong>HumanLiff learns layer-wise 3D human with a unified diffusion process.</strong>
 
