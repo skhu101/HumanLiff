@@ -10,7 +10,7 @@
     Haiyi Mei<sup>2</sup>&emsp;
     Weiye Xiao<sup>2</sup>&emsp;
     <a href="https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en" target="_blank">Lei Yang<sup>2</sup></a>&emsp;
-    <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu</a>✉<sup>1</sup>&emsp;
+    <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu<sup>1</sup>&emsp;
 </div>
 <div>
     <sup>1</sup>S-Lab, Nanyang Technological University&emsp; <sup>2</sup>Sensetime Research
