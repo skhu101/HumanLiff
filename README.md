@@ -19,7 +19,7 @@
     <sup>✉</sup>Corresponding Author
 </div>
 
-<strong>HumanLiff learns a Layer-wise Human Diffusion model.</strong>
+<strong>HumanLiff learns layer-wise 3D human with a unified diffusion process.</strong>
 
 <div style="width: 70%; text-align: center; margin:auto;">
     <img style="width:100%" src="img/HumanLiff_teaser.png">
