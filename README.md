@@ -23,7 +23,7 @@
 
 <div style="width: 70%; text-align: center; margin:auto;">
     <img style="width:100%" src="img/HumanLiff_teaser.png">
-    <em>Figure 1. HumanLiff learns to generate layer-wise 3D human with a unified diffusion process. Starting from a random noise, HumanLiff first generates a human body and then progressively generates 3D humans conditioned on previous generation. We use the same background color to denote generation results from the same human layer.</em>
+    <em>Figure 1. HumanLiff learns to generate <strong>layer-wise 3D human with a unified diffusion process</strong>. Starting from a random noise, HumanLiff first generates a human body and then progressively generates 3D humans conditioned on previous generation. We use the same background color to denote generation results from the same human layer.</em>
 </div>
 
 :open_book: For more visual results, go checkout our <a href="https://skhu101.github.io/HumanLiff" target="_blank">project page</a>
