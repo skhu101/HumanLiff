@@ -25,7 +25,7 @@
 
 :open_book: For more visual results, go checkout our <a href="https://skhu101.github.io/HumanLiff" target="_blank">project page</a>
 
-This repository will contain the official implementation of _HumanLiff: Layer-wise 3D Human Generation with Diffusion Model_.
+This repository contains the official implementation of _HumanLiff: Layer-wise 3D Human Generation with Diffusion Model_.
 
 <div align="left">
 
