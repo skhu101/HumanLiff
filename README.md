@@ -47,10 +47,25 @@ We recommend using anaconda to manage python environments.
 <!-- --- -->
 
 #### Layer-wise SynBody Dataset
-Please download our rendered multi-view images of layerwise SynBody dataset from [OneDrive]().
+Please download our rendered multi-view images of layerwise SynBody dataset from [OneDrive](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/EU8blUJ9UKZPj1XCITu2Hw0Bm82y_lWZoENX7qBBXYc7NQ?e=0IdvmG). The folder structure should look like
+
+```
+./
+├── ...
+└── recon_NeRF/data/
+    ├── SynBody/
+        ├── 20230423
+```
 
 #### Layer-wise TightCap Dataset
-Please download our rendered multi-view images of layerwise TightCap dataset from [OneDrive]().
+Please download our rendered multi-view images of layerwise TightCap dataset from [OneDrive](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/EawbE2omiahLvSRYVwmC9gYBCo8mfCAXww02JJyk-tj96g?e=RbGb84). The folder structure should look like
+
+```
+./
+├── ...
+└── recon_NeRF/data/
+    ├── TightCap/
+```
 
 #### Download Models
 Register and download SMPL and SMPLX (version 1.0) models [here](https://smplify.is.tue.mpg.de/download.php). Put the downloaded models in the folder smpl_models. Only the neutral one is needed. The folder structure should look like
