@@ -47,7 +47,7 @@ We recommend using anaconda to manage python environments.
 <!-- --- -->
 
 #### Layer-wise SynBody Dataset
-Please download our rendered multi-view images of layerwise SynBody dataset from [Huggingface](https://huggingface.co/datasets/skhu101/HumanLiff/tree/main4). The folder structure should look like
+Please download our rendered multi-view images of layerwise SynBody dataset from [Huggingface](https://huggingface.co/datasets/skhu101/HumanLiff). The folder structure should look like
 
 ```
 ./
@@ -58,7 +58,7 @@ Please download our rendered multi-view images of layerwise SynBody dataset from
 ```
 
 #### Layer-wise TightCap Dataset
-Please download our rendered multi-view images of layerwise TightCap dataset from [Huggingface](https://huggingface.co/datasets/skhu101/HumanLiff/tree/main4). The folder structure should look like
+Please download our rendered multi-view images of layerwise TightCap dataset from [Huggingface](https://huggingface.co/datasets/skhu101/HumanLiff). The folder structure should look like
 
 ```
 ./
